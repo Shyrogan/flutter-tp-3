@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490778219235",
+    "project_id": "squizzi-9212f",
+    "storage_bucket": "squizzi-9212f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490778219235:android:f5772b624518d3bfa52bd6",
+        "android_client_info": {
+          "package_name": "fr.shyrogan.squizzi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lRl4bz5EiHumfGQUrr27DjtiuUXFRIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
